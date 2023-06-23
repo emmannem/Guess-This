@@ -1,0 +1,22 @@
+Caracteristicas de los personajes dentro del juego:
+
+1. Spider-Man: Humano, Hombre, Heroe, Aracnido, Trepamuros.
+2. Iron Man: Humano, Hombre, Heroe, Genio Inventor, Millonario.
+3. Capitán America: Humano, Hombre, Heroe, Patriota, Super Soldado.
+4. Daredevil: Humano, Hombre, Heroe, Ciego, Artista Marcial.
+5. Black Widow: Humano, Mujer, Heroe, Espia, Artista Marcial.
+6. Sue Sortm: Humano, Mujer, Heroe, Invisible, Fuerte.
+7. Silk: Humano, Mujer, Heroe, Tejedora, Trepamuros.
+8. She Hulk: Humano, Mujer, Heroe, Verde, Super Fuerte.
+9. Scarlet Witch: Humano, Mujer, Heroe, Hechicera, Fuerte.
+10. Jean Grey: Mutante, Mujer, Heroe, Telepata, Dark Fenix.
+11. Punisher: Humano, Hombre, Antiheroe, Vengativo, Artista Marcial.
+12. Deadpool: Mutante, Hombre, Antiheroe, Mercenario, Gracioso.
+13. Venom: Alien, Hombre, Antiheroe, Aracnido, Simbionte.
+14. Wolverine: Mutante, Hombre, Antiheroe, Salvaje, Inmortal.
+15. X-23: Mutante, Mujer, Antiheroe, Experta Rastreadora, Clon.
+16. Thanos: Alien, Hombre, Villano, Titan, Loco.
+17. Magneto: Mutante, Hombre, Villano, Defensor de mutantes, Poderoso.
+18. Hela_ Alien, Mujer, Villano, Diosa de la muerte, Super Fuerte.
+19. La Encantadora: Alien, Mujer, Villano, Hechicera, Manipuladora.
+20. Deathbird: Alien, Mujer, Villano, Princesa, Conquistadora.

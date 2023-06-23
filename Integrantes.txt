@@ -1,0 +1,8 @@
+Integrantes del equipo:
+José Emmanuel Martinez Rivera
+Cristian fernando Flores Ramirez
+Antonio Rincón Villegas
+Diana Laura Baurista García
+
+Nota:
+Para compilar se necisita la version 1.8 del sdk del kinect
