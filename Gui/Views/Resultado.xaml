@@ -1,0 +1,29 @@
+﻿<Window x:Class="ControllersKinect.Views.Resultado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControllersKinect.Views"
+        mc:Ignorable="d"
+    xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        Title="Game" Height="450" Width="800"  ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/ControllersKinect;component/img/bg1.jpg"/>
+    </Window.Background>
+    <Grid>
+
+        <k:KinectRegion Name="regionKt">
+
+            <Grid>
+                <Image Name="imgPersonaje" HorizontalAlignment="Left" Height="296" Margin="125,10,0,0" VerticalAlignment="Top" Width="253"
+                        />
+                <k:KinectUserViewer DefaultUserColor="Gray" PrimaryUserColor="Green" Margin="643,0,0,306" />
+                <k:KinectTileButton  Label="Jugar de nuevo" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="471,237,56,31" Click="KinectTileButton_Click" Height="153" Width="267" FontFamily="Segoe UI Black" Background="LightGray" Content="" LabelBackground="#E60A0A0A" Foreground="White"/>
+            </Grid>
+        </k:KinectRegion>
+        <k:KinectSensorChooserUI Name="kinectSensorUI"  HorizontalAlignment="Center" VerticalAlignment="Top" ></k:KinectSensorChooserUI>
+        <TextBlock Name="txtDatos" HorizontalAlignment="Left" Margin="471,27,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="192" Width="261" Foreground="White" FontWeight="Bold" FontSize="16"/>
+        <Label Name="lblnombre" Content="Label" HorizontalAlignment="Left" Margin="136,337,0,0" Width="224" Height="74" Foreground="White" FontWeight="ExtraBold" FontSize="24" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
